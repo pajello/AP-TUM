@@ -1,0 +1,30 @@
+Die peaks sind bei [240 390 511]
+Mit dem fit errechen wir fuer den linken peak eine energie 649.50042259 pm 42.01764578000001
+Mit dem fit errechen wir fuer den linken peak eine energie 1077.31012939 pm 64.49055097999997
+Mit dem fit errechen wir fuer den linken peak eine energie 1422.30830444 pm 74.52289692999989
+Fehler von fitkurve und halfwidth miteingerechnet
+Die peaks sind bei [240 390 511]
+Mit dem fit errechen wir fuer den linken peak eine energie 649.50042259 pm 42.01764578000001
+Mit dem fit errechen wir fuer den linken peak eine energie 1077.31012939 pm 64.49055097999997
+Mit dem fit errechen wir fuer den linken peak eine energie 1422.30830444 pm 74.52289692999989
+Fehler von fitkurve und halfwidth miteingerechnet
+Die peaks sind bei [240 390 511]
+Mit dem fit errechen wir fuer den linken peak eine energie 649.50042259 pm 42.01764578000001
+Mit dem fit errechen wir fuer den linken peak eine energie 1077.31012939 pm 64.49055097999997
+Mit dem fit errechen wir fuer den linken peak eine energie 1422.30830444 pm 74.52289692999989
+Fehler von fitkurve und halfwidth miteingerechnet
+Die peaks sind bei [240 390 511]
+Mit dem fit errechen wir fuer den linken peak eine energie 649.50042259 pm 42.01764578000001
+Mit dem fit errechen wir fuer den linken peak eine energie 1077.31012939 pm 64.49055097999997
+Mit dem fit errechen wir fuer den linken peak eine energie 1422.30830444 pm 74.52289692999989
+Fehler von fitkurve und halfwidth miteingerechnet
+Die peaks sind bei [240 390 511]
+Mit dem fit errechen wir fuer den ersten peak eine energie 649.50042259 pm 42.01764578000001
+Mit dem fit errechen wir fuer den zweiten peak eine energie 1077.31012939 pm 64.49055097999997
+Mit dem fit errechen wir fuer den dritten peak eine energie 1422.30830444 pm 74.52289692999989
+Fehler von fitkurve und halfwidth miteingerechnet
+Die peaks sind bei [240 390 511]
+Mit dem fit errechen wir fuer den ersten peak eine energie 649.50042259 pm 42.01764578000001
+Mit dem fit errechen wir fuer den zweiten peak eine energie 1077.31012939 pm 64.49055097999997
+Mit dem fit errechen wir fuer den dritten peak eine energie 1422.30830444 pm 74.52289692999989
+Fehler von fitkurve und halfwidth miteingerechnet

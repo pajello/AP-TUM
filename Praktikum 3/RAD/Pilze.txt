@@ -1,0 +1,17 @@
+Die peaks sind bei [ 34 218 509]
+Mit dem fit errechen wir fuer den linken peak energien von [63.021709939999994, 586.75070364, 1416.6428325900001]
+mit Fehlern: [94.50736343, 38.379543729999966, 77.30194177999999]
+Fehler von fitkurve und halfwidth miteingerechnet
+das layout ist anders hier weil es zu viele lineen waren, musste mir eine funktion schreibenDie peaks sind bei [ 34 218 509]
+Mit dem fit errechen wir fuer den linken peak energien von [63.021709939999994, 586.75070364, 1416.6428325900001]
+mit Fehlern: [94.50736343, 38.379543729999966, 77.30194177999999]
+Fehler von fitkurve und halfwidth miteingerechnet
+das layout ist anders hier weil es zu viele lineen waren, musste mir eine funktion schreibenDie peaks sind bei [ 34 218 509]
+Mit dem fit errechen wir fuer den linken peak energien von [63.021709939999994, 586.75070364, 1416.6428325900001]
+mit Fehlern: [94.50736343, 38.379543729999966, 77.30194177999999]
+Fehler von fitkurve und halfwidth miteingerechnet
+das layout ist anders hier weil es zu viele lineen waren, musste mir eine funktion schreibenDie peaks sind bei [ 34 218 509]
+Mit dem fit errechen wir fuer den linken peak energien von [63.021709939999994, 586.75070364, 1416.6428325900001]
+mit Fehlern: [94.50736343, 38.379543729999966, 77.30194177999999]
+Fehler von fitkurve und halfwidth miteingerechnet
+das layout ist anders hier weil es zu viele lineen waren, musste mir eine funktion schreiben

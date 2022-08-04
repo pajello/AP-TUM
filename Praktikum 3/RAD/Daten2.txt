@@ -1,0 +1,5 @@
+Die peaks sind bei [173 511]
+Mit dem fit errechen wir fuer den linken peak eine energie 458.47222089 pm 36.76881148000001
+Mit dem fit errechen wir fuer den linken peak eine energie 1422.16512824 pm 63.12036512999998
+Fehler von fitkurve und halfwidth miteingerechnet
+Die Anzahl der zerfaelle unter den 2 peaks ist 97.0

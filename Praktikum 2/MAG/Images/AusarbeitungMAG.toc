@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Abstract}{1}{section.1}%
+\contentsline {section}{\numberline {2}Theoretical fundaments}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}The law of Biot-Savart and the magnetic field of a coil}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Hall effect, measuring magnetic fields}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Materials in a magnetic field}{3}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Paramagnetism}{3}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Diamagnetism}{3}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Ferromagnetism}{3}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Induction}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Experimental Procedures}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Instruments and Materials }{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Magnetic field along the axis of the coil (Longitudinal configuration)}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Magnetic field in a transverse configuration}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Results and discussion}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Raw data plots}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Magnetic field, without core, longitudinal configuration}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Magnetic field, with core, longitudinal configuration}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}magnetic fiel, no core, transversal configuration}{9}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Appendix}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Data}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Literaturverzeichnis}{13}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Error propagation}{14}{subsection.5.3}%

@@ -1,0 +1,26 @@
+Die peaks sind bei [ 40  73 276 360]
+Mit dem fit errechen wir fuer den linken peak eine energie 79.40962664 pm 37.70946873
+Mit dem fit errechen wir fuer den linken peak eine energie 173.33733779 pm 27.48814057999998
+Mit dem fit errechen wir fuer den linken peak eine energie 752.1590028400001 pm 46.15686453000001
+Mit dem fit errechen wir fuer den linken peak eine energie 991.64796469 pm 52.014197679999995
+Fehler von fitkurve und halfwidth miteingerechnet
+
+Ich habe hier den ersten peak rausgefiltert
+Die peaks sind bei [ 40  73 276 360]
+Mit dem fit errechen wir fuer den linken peak eine energie 79.40962664 pm 37.70946873
+Mit dem fit errechen wir fuer den linken peak eine energie 173.33733779 pm 27.48814057999998
+Mit dem fit errechen wir fuer den linken peak eine energie 752.1590028400001 pm 46.15686453000001
+Mit dem fit errechen wir fuer den linken peak eine energie 991.64796469 pm 52.014197679999995
+Fehler von fitkurve und halfwidth miteingerechnet
+Die peaks sind bei [ 40  73 276 360]
+Mit dem fit errechen wir fuer den linken peak eine energie 79.40962664 pm 37.70946873
+Mit dem fit errechen wir fuer den linken peak eine energie 173.33733779 pm 27.48814057999998
+Mit dem fit errechen wir fuer den linken peak eine energie 752.1590028400001 pm 46.15686453000001
+Mit dem fit errechen wir fuer den linken peak eine energie 991.64796469 pm 52.014197679999995
+Fehler von fitkurve und halfwidth miteingerechnet
+Die peaks sind bei [ 40  73 276 360]
+Mit dem fit errechen wir fuer den linken peak eine energie 79.40962664 pm 37.70946873
+Mit dem fit errechen wir fuer den linken peak eine energie 173.33733779 pm 27.48814057999998
+Mit dem fit errechen wir fuer den linken peak eine energie 752.1590028400001 pm 46.15686453000001
+Mit dem fit errechen wir fuer den linken peak eine energie 991.64796469 pm 52.014197679999995
+Fehler von fitkurve und halfwidth miteingerechnet
